@@ -8,10 +8,11 @@ title: Distant Reading Project
 
 # Distant Reading Assignment 
 
-*This is a page where you can paste your distant reading assignment. I strongly suggest writing it in Word or Google Docs first, because Github will not alert you of typos*
+This is an analysis and comparison of Voyant and Copilot in regards to their handling of President John F. Kennedy's "Special Message to the Congress on Urgent National Needs," where he stated America would travel to the moon by the end of the decade. 
 
-This file ends in ".md," which means it is a Markdown document, rather than HTML. I find Markdown easier to use than HTML, but you can easily change this to an HTML document if you prefer: just replace the .md with .html and commit! 
-
-Here is a fun link to a [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/). Once you grasp the basics here, go add "Markdown" to your list of skills on your resume!
+## Voyant Visualization
 
 ![image alt text](Voyant_visualization.png)
+
+## Copilot Replies
+This was Copilot's response to showing what the most common words were 
