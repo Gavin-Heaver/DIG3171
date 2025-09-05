@@ -15,4 +15,4 @@ This is an analysis and comparison of Voyant and Copilot in regards to their han
 ![image alt text](Voyant_visualization.png)
 
 ## Copilot Replies
-This was Copilot's response to showing what the most common words were 
+Copilot's response to showing what the most common meaningful words were 
