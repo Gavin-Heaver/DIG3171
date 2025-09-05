@@ -8,18 +8,20 @@ title: Distant Reading Project
 
 # Distant Reading Assignment 
 
-This is an analysis and comparison of Voyant and Copilot in regards to their handling of President John F. Kennedy's "Special Message to the Congress on Urgent National Needs," where he stated America would travel to the moon by the end of the decade. 
+This is an analysis and comparison of Voyant and Copilot in regard to their handling of President John F. Kennedy's "Special Message to the Congress on Urgent National Needs," where he stated America would travel to the moon by the end of the decade. 
 
 ## Voyant Visualization
 
 ![image alt text](Voyant_visualization.png)
 
 ## Copilot Replies
-Copilot's exact response to showing what the most common meaningful words were: 
+### Copilot's exact response to showing what the most common meaningful words were: 
 ![image alt text](Copilot%20visualization.png)
-The unnamed bars in the graph, in order, are the words freedom, program, development, Congress, progress, and subversion. 
+*The unnamed bars in the graph, in order, are the words freedom, program, development, Congress, progress, and subversion.*
+<br />
+<br />
+### This was Copilot's response to asking what the tone and major themes of the speech were: 
 
-This was Copilot's response to asking what the tone and major themes of the speech were: 
 🎙️ Tone of the Speech
 1. Urgent and Determined
    Kennedy emphasizes the pressing nature of global and domestic challenges, urging swift and decisive action from Congress.
@@ -32,6 +34,7 @@ This was Copilot's response to asking what the tone and major themes of the spee
 
 4. Confident and Assertive
    Kennedy projects confidence in America’s ability to lead the free world and overcome threats through innovation, unity, and strength.
+
 
 🧭 Major Themes
 1. Cold War Ideological Conflict
@@ -49,3 +52,7 @@ This was Copilot's response to asking what the tone and major themes of the spee
 5. National Unity and Leadership
 - The speech calls for bipartisan cooperation and national unity in facing global challenges.
 - Kennedy appeals to Congress and the American people to rise to the occasion.
+
+
+## Analysis of results
+Within these results, you are able to find out the general idea of the speech, but not much else. For example, in the two figures uploaded, you can see what the most common or popular words found in the link to the article are. However, it doesn't tell you why the words were said, just that they were. That's where the second question for Copilot came into play, where I asked what the tone and themes were, in order to gauge the speech to a greater level. While this did give a greater understanding of the speech, it still limits complete understanding of it. Copilot didn't say exactly what the speech had, only that it covered certain topics. The only way to fully understand the speech is to listen or read it in full. These tools seem like a great starting place when analyzing text or deciding if it is fit for a specific research topic, but it lacks the complete depth that a human can find when fully reading it. 
