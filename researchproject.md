@@ -27,38 +27,38 @@ Ever since the dawn of time, humans have always attempted to evolve and reach fo
   Alizadeh, Fatemeh, Gunnar Stevens, and Margarita Esau. “I Don’t Know, Is AI Also Used in Airbags?: An Empirical Study of Folk Concepts and People’s Expectations of Current and Future Artificial Intelligence.” <em>I-com</em> 20.1 (2021): 3–17. Web.
 </p>
 <p class="works-cited">
-  Doe, Jane. "Journal Article.” <em>Journal Name</em>, vol. 15, no. 2, 2025, pp. 45–67.
+  Beam, Andrew L et al. “Artificial Intelligence in Medicine.” <em>The New England journal of medicine</em> 388.13 (2023): 1220–1221. Web.
 </p>
 <p class="works-cited">
-  Doe, Jane. "Journal Article.” <em>Journal Name</em>, vol. 15, no. 2, 2025, pp. 45–67.
+  Elston, Dirk M. "Artificial Intelligence: The Good, the Bad, and the Ugly." <em>Journal of the American Academy of Dermatology</em> (2025): n pag. Web.
 </p>
 <p class="works-cited">
-  Doe, Jane. "Journal Article.” <em>Journal Name</em>, vol. 15, no. 2, 2025, pp. 45–67.
+  Grzybowski, Andrzej, Katarzyna Pawlikowska–Łagód, and W. Clark Lambert. “A History of Artificial Intelligence.” <em>Clinics in dermatology</em> 42.3 (2024): 221–229. Web. 
 </p>
 <p class="works-cited">
-  Doe, Jane. "Journal Article.” <em>Journal Name</em>, vol. 15, no. 2, 2025, pp. 45–67.
+  Haenlein, Michael, and Andreas Kaplan. “A Brief History of Artificial Intelligence: On the Past, Present, and Future of Artificial Intelligence.” <em>California Management Review</em>, 61.4 (2019): 5–14. Web.
 </p>
 <p class="works-cited">
-  Doe, Jane. "Journal Article.” <em>Journal Name</em>, vol. 15, no. 2, 2025, pp. 45–67.
+  Kirk, Hannah Rose et al. “Why Human–AI Relationships Need Socioaffective Alignment.” <em>Humanities & social sciences communications</em> 12.1 (2025): n. pag. Web.
 </p>
 <p class="works-cited">
-  Doe, Jane. "Journal Article.” <em>Journal Name</em>, vol. 15, no. 2, 2025, pp. 45–67.
+  Peeters, Marieke M. M et al. “Hybrid Collective Intelligence in a Human–AI Society.” <em>AI & society</em> 36.1 (2021): 217–238. Web.
 </p>
 <p class="works-cited">
-  Doe, Jane. "Journal Article.” <em>Journal Name</em>, vol. 15, no. 2, 2025, pp. 45–67.
+  Poba-Nzaou, Placide et al. “The Impacts of Artificial Intelligence (AI) on Jobs: An Industry Perspective.” <em>Strategic HR review</em> 20.2 (2021): 60–65. Web.
 </p>
 <p class="works-cited">
-  Doe, Jane. "Journal Article.” <em>Journal Name</em>, vol. 15, no. 2, 2025, pp. 45–67.
+  Siau, Keng, and Weiyu Wang. “Artificial Intelligence (AI) Ethics: Ethics of AI and Ethical AI.” <em>Journal of database management</em> 31.2 (2020): 74–87. Web.
 </p>
 <p class="works-cited">
-  Doe, Jane. "Journal Article.” <em>Journal Name</em>, vol. 15, no. 2, 2025, pp. 45–67.
+  Stultz, Collin M. “What Is AI and Why Should I Care?” <em>Heart rhythm</em> 21.10 (2024): e253–e255. Web.
 </p>
 <p class="works-cited">
-  Doe, Jane. "Journal Article.” <em>Journal Name</em>, vol. 15, no. 2, 2025, pp. 45–67.
+  Teubner, Timm et al. “Welcome to the Era of ChatGPT et al: The Prospects of Large Language Models.” <em>Business & information systems engineering</em> 65.2 (2023): 95–101. Web.
 </p>
 <p class="works-cited">
-  Doe, Jane. "Journal Article.” <em>Journal Name</em>, vol. 15, no. 2, 2025, pp. 45–67.
+  Wang, Pei. “On Defining Artificial Intelligence.” <em>Journal of artificial general intelligence</em> 10.2 (2019): 1–37. Web. 
 </p>
 <p class="works-cited">
-  Doe, Jane. "Journal Article.” <em>Journal Name</em>, vol. 15, no. 2, 2025, pp. 45–67.
+  Zheng, Xiaojun et al. “Intelligent Art: The Fusion Growth of Artificial Intelligence in Art and Design.” <em>International journal for simulation and multidisciplinary design optimization</em> 13 (2022): 24. Web.
 </p>
