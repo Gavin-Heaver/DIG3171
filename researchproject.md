@@ -21,8 +21,8 @@ Ever since the dawn of time, humans have always attempted to evolve and reach fo
 </style>
 
 <p class="works-cited">
-  Abbass, Hussein. “Editorial: What Is Artificial Intelligence?” <em>IEEE transactions on artificial intelligence</em> 2.2 (2021): 94–95. Web.
-  Alizadeh, Fatemeh, Gunnar Stevens, and Margarita Esau. “I Don’t Know, Is AI Also Used in Airbags?: An Empirical Study of Folk Concepts and People’s Expectations of Current and Future Artificial Intelligence.” <em>I-com</em> 20.1 (2021): 3–17. Web.
+  Abbass, Hussein. “Editorial: What Is Artificial Intelligence?” <em>IEEE transactions on artificial intelligence</em> 2.2 (2021): 94–95. Web. <br>
+  Alizadeh, Fatemeh, Gunnar Stevens, and Margarita Esau. “I Don’t Know, Is AI Also Used in Airbags?: An Empirical Study of Folk Concepts and People’s Expectations of Current and Future Artificial Intelligence.” <em>I-com</em> 20.1 (2021): 3–17. Web. <br>
   Lastname, Firstname. <em>Book Title</em>. Press, 2025.
 </p>
 
